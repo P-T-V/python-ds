@@ -1,5 +1,6 @@
 def print_tax_document(tax, *args, **kwargs):
     price_sum = 0
+    print(type(args))
     for i_price in args:
         price_sum += i_price * (1 - tax / 100)
     print('Сумма цен с учётом налога:', price_sum)

@@ -1,0 +1,6 @@
+C:\PycharmProjects\Skillbox\Lessons\lesson23.2.0.1.findfile.py
+C:\PycharmProjects\Skillbox\Lessons\lesson23.2.0.1.findfile.py
+C:\PycharmProjects\Skillbox\Lessons\lesson23.4.0.findfile.writeres.py
+C:\PycharmProjects\Skillbox\Lessons\lesson23.4.0.writefile.py
+C:\PycharmProjects\Skillbox\Lessons\lesson23.4.0.writefile.py
+C:\PycharmProjects\Skillbox\Lessons\lesson23.5.0.seek.py

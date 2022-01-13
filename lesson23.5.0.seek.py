@@ -1,0 +1,7 @@
+search_file = open('search_history.txt', 'r', encoding='utf-8')
+data = search_file.read(30)
+search_file.seek(4)
+data_2 = search_file.read(57)
+print(data)
+print(data_2)
+search_file.close()
